@@ -1,6 +1,6 @@
 X Audio Copy
 
-GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
+GTK+ 3 and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 Copyright 2010 Giorgio Franceschi
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2 of the License or (at your option) any later version.
